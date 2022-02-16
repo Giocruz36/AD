@@ -1,10 +1,8 @@
-package Neodatis;
+package Neodatis.DosTablas;
 
 import org.neodatis.odb.ODB;
 import org.neodatis.odb.ODBFactory;
 import org.neodatis.odb.Objects;
-
-import Neodatis.DosTablas.Juego;
 
 public class Consulta_juego {
 	public static void main(String[] args) {
